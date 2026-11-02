@@ -1,0 +1,10 @@
+GATO A CASA - Instrucciones
+
+Para jugar: abre index.html en tu navegador (Chrome, Edge, Firefox o Safari).
+
+Para publicarlo en itch.io:
+1. Crea un proyecto nuevo y elige el tipo "HTML".
+2. Sube el archivo gato-a-casa.zip (index.html debe quedar en la raiz).
+3. Marca "This file will be played in the browser".
+
+Tu partida se guarda en el navegador de cada jugador.
